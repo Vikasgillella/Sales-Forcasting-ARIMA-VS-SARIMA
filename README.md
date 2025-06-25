@@ -1,0 +1,1 @@
+This repository contains a comparative analysis of ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) models for time series forecasting of sales data. The goal is to evaluate which model better captures patterns and seasonality in sales to improve future predictions.
